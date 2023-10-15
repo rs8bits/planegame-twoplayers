@@ -1,2 +1,2 @@
 # sydlearn
-Just for learning 
+一个大一的c++课设，关于飞机大战的双人闯关版 
